@@ -3,7 +3,7 @@
     :alt: License: AGPL-3
 
 ============
-Odoo Medical
+Eagle Medical
 ============
 
 This module extends Odoo with the base functionality of medical patients.
