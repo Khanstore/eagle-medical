@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/OCA/vertical-medical.svg?branch=10.0)](https://travis-ci.org/OCA/vertical-medical)
 [![codecov](https://codecov.io/gh/OCA/vertical-medical/branch/10.0/graph/badge.svg)](https://codecov.io/gh/OCA/vertical-medical)
 
-# Vertical Medical
+# Eagle Medical
 
 It provides a free universal Health and Hospital Information System, allowing
 medical instutions to benefit from a centralized and scalable Electronic Medical
