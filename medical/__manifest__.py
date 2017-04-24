@@ -4,7 +4,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
-    'name': 'Odoo Medical',
+    'name': 'Eagle Medical',
     'version': '10.0.1.0.0',
     'category': 'Medical',
     'depends': [
