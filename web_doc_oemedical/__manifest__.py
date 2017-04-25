@@ -14,6 +14,6 @@ This module is to manage all documentation embedded on OeMedical.
     'js': [],
     'css': [],
     'qweb': [],
-    'auto_install': False,
-    "installable": False,
+    'auto_install': True,
+    "installable": True,
 }
