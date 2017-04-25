@@ -38,7 +38,7 @@
     'version': '1.0',
     'author': "OeMEdical Team,Odoo Community Association (OCA)",
     'category': 'Generic Modules/Others',
-    'depends': ['oemedical_emr'],
+    'depends': ['medical_emr'],
     'application': True,
     'description': """
 
