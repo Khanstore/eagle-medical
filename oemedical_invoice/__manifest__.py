@@ -41,6 +41,6 @@
         "views/prescription_invoice.xml",
         "views/create_lab_invoice.xml"
     ],
-    'installable': False,
-    'active': False,
+    'installable': True,
+    'active': True,
 }
