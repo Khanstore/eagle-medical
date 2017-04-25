@@ -116,6 +116,6 @@ OeMedical at a glance:
     'qweb': [
 
     ],
-    "active": False,
-    "installable": False,
+    "active": True,
+    "installable": True,
 }
