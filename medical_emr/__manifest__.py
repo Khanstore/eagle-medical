@@ -67,7 +67,7 @@
         'security/ir.model.access.csv',
         'medical_menu.xml',
     ],
-    'installable': False,
-    'auto_install': False,
+    'installable': True,
+    'auto_install': True,
     'application': True,
 }
