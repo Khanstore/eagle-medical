@@ -81,3 +81,9 @@ Translation Status
 OCA, or the [Odoo Community Association](http://odoo-community.org/), is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
+
+<p> git clone https://github.com/ShaheenHossain/eagle-medical.git </p>
+
+<p> git clone https://github.com/OCA/partner-contact.git </p>
+
+/eagle/custom/addons/eagle-medical,/eagle/custom/addons/partner-contact/
