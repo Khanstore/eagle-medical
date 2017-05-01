@@ -43,6 +43,6 @@
         'views/medical_prescription_order_view.xml',
         'views/medical_prescription_order_line_view.xml',
     ],
-    'installable': False,
+    'installable': True,
     'auto_install': False,
 }
