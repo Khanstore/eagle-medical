@@ -30,6 +30,7 @@
     'website': 'http://www.acsone.eu',
     'license': 'AGPL-3',
     'category': 'Medical',
+    'application': True,
     'depends': [
         'medical',
         'medical_disease',
@@ -46,5 +47,5 @@
         'views/medical_patient_view.xml',
     ],
     'installable': True,
-    'auto_install': False,
+    
 }
