@@ -45,5 +45,5 @@
         'views/medical_drug_route_view.xml',
     ],
     'installable': True,
-    'auto_install': False,
+    'application': True,
 }
