@@ -44,5 +44,5 @@
         'views/medical_disease_view.xml',
     ],
     'installable': True,
-    'auto_install': False,
+    'application': True,
 }
