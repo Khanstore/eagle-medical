@@ -6,7 +6,7 @@
     The license is in the file __openerp__.py
 -->
 
-<openerp>
+<odoo>
     <data>
 
         <!-- Prescription [Config/Prescription] -->
@@ -21,4 +21,4 @@
                   parent="medical_root_prescription" sequence="60"
                   action="medical_prescription_order_line_state_action" />
     </data>
-</openerp>
+</odoo>
