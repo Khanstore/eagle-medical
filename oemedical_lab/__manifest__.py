@@ -1,7 +1,6 @@
 ##############################################################################
-#    OpenERP, Open Source Management Solution
-#    Copyright (C) 2004-2009 Tiny SPRL (<http://tiny.be>). All Rights Reserved
-#    OeMedical, HMS Opensource Solution
+#    Eagle Hospital Management Solution
+#    Copyright (C) 2017-2018 Eagle it solutions. All Rights Reserved
 ##############################################################################
 #    Collaborators of this module:
 #    Special Credit and Thanks to Thymbra Latinoamericana S.A.
@@ -34,9 +33,9 @@
 ##############################################################################
 {
 
-    'name': 'OeMedical : Free Health and Hospital Information System',
+    'name': 'Eagle hospital management : Health and Hospital Information System',
     'version': '1.0',
-    'author': "OeMEdical Team,Odoo Community Association (OCA)",
+    'author': "Eagle Team",
     'category': 'Generic Modules/Others',
     'depends': ['oemedical_emr'],
     'application': True,
